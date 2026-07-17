@@ -12,4 +12,4 @@ Each task contains important details such as title, description, status (pending
 to run the backend, clone the repo and navigate to the server folder and do npm install and npm run dev
 
 **Frontend-(Client)**
-to run the frontend, clone the repo and navigate to the Client  folder and do npm install and npm run dev
+to run the frontend, navigate to the Client folder and do npm install and npm run dev
